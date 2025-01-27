@@ -18,3 +18,6 @@ This snippet file is designed for Visual Studio Code. By typing cpp, it automati
 - Ctrl+Shift+P（macOSの場合はCmd+Shift+P）を押して、「Preferences: Configure User Snippets」を検索し、選択します。
 - C++を選択（または、新しいC++用のスニペットファイルを作成）します。
 - 以下のスニペットコードをコピーして貼り付けます。
+
+Thanks to @yuya256 @ Qiita
+https://qiita.com/yuya296/items/7592d542196777f3aa1c
