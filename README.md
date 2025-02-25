@@ -24,7 +24,7 @@ This snippet file is designed for Visual Studio Code. By typing cpp, it automati
 
 ## Inspiration
 This project is inspired by the following projects:
-- [C++ Snippets](https://qiita.com/yuya296/items/7592d542196777f3aa1c)
+- https://qiita.com/yuya296/items/7592d542196777f3aa1c
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
