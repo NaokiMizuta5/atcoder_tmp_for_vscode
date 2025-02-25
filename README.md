@@ -1,4 +1,4 @@
-### Explanation and Configuration File
+## Explanation and Configuration File
 1. Overview
 This snippet file is designed for Visual Studio Code. By typing cpp, it automatically inserts a C++ template code. Using snippets helps you save time and improve productivity by reducing repetitive tasks.
 
@@ -10,7 +10,7 @@ This snippet file is designed for Visual Studio Code. By typing cpp, it automati
     1. Select C++ (or create a new snippet file specifically for C++).
     1. Copy and Paste the Snippet Code
   
-### 説明と設定ファイル
+## 説明と設定ファイル
 1. 概要
 このスニペットファイルは、Visual Studio Code用に作られています。cppと入力すると、自動的にC++のテンプレートコードが挿入されます。スニペットを使用することで、繰り返し作業を減らし、時間を節約して生産性を向上させることができます。
 
