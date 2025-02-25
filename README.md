@@ -21,3 +21,10 @@ This snippet file is designed for Visual Studio Code. By typing cpp, it automati
     1. C++を選択するか、新しいC++用のスニペットファイルを作成します。
     1. スニペットコードをコピーして貼り付ける
     1. スニペットコードを使用して、スニペットエディタに貼り付けます。
+
+## Inspiration
+This project is inspired by the following projects:
+- [C++ Snippets](https://qiita.com/yuya296/items/7592d542196777f3aa1c)
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
